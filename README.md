@@ -4,8 +4,6 @@
 
 * 第三方模块汇总:https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules<br>
 
-* 天气预报API:https://openweathermap.org<br>
-
 视频教程
 -----------
 * 安装部分视频演示:https://www.bilibili.com/video/av51909169<br>
@@ -26,7 +24,9 @@
 
 常用模块链接
 ------------
-* 新版日历:https://github.com/KirAsh4/calendar_monthly<br>
+* 天气/预报API:https://openweathermap.org<br>
+
+* 日历月视图:https://github.com/KirAsh4/calendar_monthly<br>
 
 * 电子邮件:https://github.com/ronny3050/email-mirror/blob/master/README.md<br>
 
