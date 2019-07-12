@@ -1,6 +1,6 @@
-本存储库主要汇总制作magicmirror过程中的常用链接
+本存储库主要汇总制作MagicMirror²过程中的常用链接
 ---------------------------------------------
-* MagicMirror官网:https://magicmirror.builders<br>
+* MagicMirror²官网:https://magicmirror.builders<br>
 
 * 第三方模块汇总:https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules<br>
 
@@ -41,3 +41,7 @@
 * 轮播模块:https://github.com/barnabycolby/MMM-Carousel<br>
 
 * 远程控制:https://github.com/Jopyth/MMM-Remote-Control<br>
+
+
+持续更新ing……         欢迎加入QQ交流群：455264695
+--------------------------
