@@ -4,6 +4,19 @@
 
 * 第三方模块汇总:https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules<br>
 
+教程链接汇总：
+----------
+（爱好者提供，排名不分先后）
+* 论坛:https://magicmirror2.cn 
+
+* 简易版语音机器人:https://github.com/alone-zd/simple-talk-robot.git
+
+* 悟空语音:https://wukong.hahack.com/
+
+* 灵空机器人:http://docs.lingkong-robot.cn
+
+* Season的魔镜教程:https://blog.seasonseason.top/
+
 视频教程
 -----------
 * 安装部分视频演示:https://www.bilibili.com/video/av51909169<br>
