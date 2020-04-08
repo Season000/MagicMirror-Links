@@ -13,7 +13,7 @@
 
 * 悟空语音:https://wukong.hahack.com/
 
-* 灵空机器人:https://gitee.com/lingkonggzs/lingkong-robot
+* 灵空机器人:https://www.lingkong.team/
 
 * Season的魔镜教程:https://blog.seasonseason.top/
 
