@@ -15,7 +15,7 @@
 
 * 灵空机器人:https://www.lingkong.team/
 
-* Season的魔镜教程:https://blog.seasonseason.top/
+* Season的魔镜教程:https://blog.wewill.top/
 
 视频教程
 -----------
